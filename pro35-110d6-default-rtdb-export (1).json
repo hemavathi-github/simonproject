@@ -1,0 +1,15 @@
+{
+  "gameState" : 0,
+  "playerCount" : 0,
+  "players" : {
+    "player1" : {
+      "name" : "Name1"
+    }
+  },
+  "spectatorCount" : 0,
+  "spectators" : {
+    "spectator1" : {
+      "name" : "Name2"
+    }
+  }
+}
